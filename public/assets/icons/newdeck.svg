@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="17.1582mm" height="17.1582mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 56.32 56.32"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="830" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Fast Hand">
+		<font-face-src>
+			<font-face-name name="Fast Hand"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="+" horiz-adv-x="537" d="M341.832 439.503l146.505 0 0 -195.341 -146.505 0 0 -146.492 -195.327 0 0 146.492 -146.505 0 0 195.341 146.505 0 0 146.492 195.327 0 0 -146.492z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Fast Hand";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#011370;stroke-width:0.87;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil1 {fill:#011370}
+    .fil2 {fill:#011371}
+    .fnt0 {font-weight:normal;font-size:23.87px;font-family:'Fast Hand'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2218670088208">
+   <g>
+    <circle class="fil0 str0" cx="28.16" cy="28.16" r="27.72"/>
+    <path class="fil1" d="M27.46 12.16l-13.05 1.47 0 17.31 1.25 0.19 0 10.84 13.75 2.05 1.25 0.14 11.24 -1.25 0 -28.6 -14.44 -2.15zm1.95 30.62l-12.49 -1.88 0 -9.59 12.49 1.87 0 9.6zm0 -27.06l0 16.22 -13.75 -2.07 0 -15.16 11.77 -1.3 9.71 1.45 -7.74 0.87zm11.24 26.08l-10.02 1.11 0 -26.09 10.02 -1.11 0 26.09z"/>
+   </g>
+   <text x="41.79" y="16.46"  class="fil2 fnt0">+</text>
+  </g>
+ </g>
+</svg>

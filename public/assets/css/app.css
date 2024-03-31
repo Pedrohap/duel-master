@@ -1,0 +1,137 @@
+/*.dm-primary{
+    background: rgb(0,34,68);
+    background: linear-gradient(0deg, rgba(0,34,68,1) 0%, rgba(0,48,143,1) 100%);
+}*/
+
+:root {
+    --dm-primary: #011371;
+    --dm-secondary: #00014E;
+}
+@font-face {
+    font-family: 'fast_handregular';
+    src: url('../fonts/FastHands/fast_hand-webfont.woff2') format('woff2'),
+         url('../fonts/FastHands/fast_hand-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*.card{
+    background-image: url("../img/Link Texture.jpg");
+    background-size: contain;
+
+    object-fit: cover;
+}*/
+
+.tile{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    border-radius: 1%;
+}
+
+.site-footer{
+    background-color: var(--dm-secondary);
+    color: white;
+}
+
+.title{
+    margin-top: 20px;
+    background: var(--dm-secondary);
+    font-family: 'fast_handregular';
+    color: white;
+    text-align: center;
+}
+
+.dm-primary{
+    background: var(--dm-primary);
+    color: white;
+}
+
+.btn-dm-primary{
+    background: white;
+    color:var(--dm-primary);
+    border-color: var(--dm-primary);
+    border-width: 2px;
+}
+
+.btn-dm-primary:hover{
+    background: var(--dm-primary);
+    color:white;
+    border-color: white;
+    border-width: 2px;
+}
+
+.btn-dm-primary2:hover{
+    background: white;
+    color:var(--dm-primary);
+    border-color: var(--dm-primary);
+    border-width: 1px;
+}
+
+.btn-dm-primary2{
+    background: var(--dm-primary);
+    color:white;
+    border-color: var(--dm-primary);
+    border-width: 1px;
+}
+
+
+.dm-secondary{
+    background: var(--dm-secondary);
+}
+
+.user-avatar {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  
+    object-fit: cover;
+}
+
+.profile-avatar {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+  
+    object-fit: cover;
+}
+
+.card-avatar {
+    display: inline-block;
+    margin-left: -12px;
+    width: 150px;
+    height: 150px;
+  
+    object-fit: cover;
+}
+
+.card-photo {
+    display: inline-block;
+    margin-left: -12px;
+    width: 180;
+    height: 180px;
+  
+    object-fit: cover;
+}
+
+
+
+/*h1{
+    font-family: 'fast_handregular';
+}*/
+
+
+.test{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.custom-tooltip-dm-primary {
+    --bs-tooltip-bg: var(--dm-primary);
+  }
+
+  .custom-tooltip-danger {
+    --bs-tooltip-bg: var(--bs-danger);
+  }
